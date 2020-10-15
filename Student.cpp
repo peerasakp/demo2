@@ -3,3 +3,7 @@
 Student::Student()
 {
 }
+
+void Student::setName(string n){
+    name = n;
+}
