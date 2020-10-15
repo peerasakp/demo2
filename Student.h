@@ -10,6 +10,7 @@ class Student
 	public:
 		Student();
         void setName(string n);
+        void changeName(string n);
 	protected:
 };
 
