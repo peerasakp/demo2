@@ -11,6 +11,7 @@ class Student
 		Student();
         void setName(string n);
         float calGPA();
+        void changeName(string n);
 	protected:
 };
 

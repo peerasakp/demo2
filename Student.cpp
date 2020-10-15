@@ -11,3 +11,8 @@ void Student::setName(string n){
 float Student::calGPA(){
 	return 3.9;
 }
+
+void Student::changeName(string n){
+    name = n;
+
+}
